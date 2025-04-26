@@ -9,11 +9,18 @@ Neural stem and progenitor cell (NSPC) and vessel-forming endothelial cell (EC) 
 
 **Main Contents**
 
-**Seurat Clustering**
+**Co-culture analysis**
 1. Co-culture analysis
 2. hNSPC subculster analysis
 3. Type B subcluster analysis
 4. Visualization
+
+**Changing gene symbols to approved or new gene symbols from HGNC and MGI databases**
+1. Human A dataset renaming (Gutierrez et al., 2025)
+2. Human B dataset renaming (Baig et al., 2024)
+3. Human C dataset renaming (Nowakowski et al., 2017)
+4. Mouse A dataset renaming (Li et al, 2020)
+5. Mouse B dataset renaming (Cebrian-Silla et al., 2021)
 
 **Human and mouse NSPC data integration**
 1. Integration of human radial glial cells from Nowakowski et al., 2017, adult neural stem-like cells from Baig et al., 2024, and our type B human NSPC dataset
